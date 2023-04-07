@@ -12,7 +12,7 @@ pip3 install -r requrirements.txt
 ## run app
 
 ```bash
-python3 insta_dump.py  -l "<login>" -p "<password>" -f ""<output file>""
+python3 insta_dump.py  -l "<login>" -p "<password>" -f "<output file>"
 ```
 
 
